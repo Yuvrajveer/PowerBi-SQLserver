@@ -3,7 +3,6 @@
 ## 🌟 Overview
 This project is a **data-driven dashboard** for **Yulu Bikes**, created using **Power BI** and **SQL Server**. The dashboard provides **insightful visualizations** and **analytics** to track key performance indicators (**KPIs**), such as **bike usage, revenue trends, and user behavior**.
 
-![Power BI Dashboard](https://www.example.com/powerbi-dashboard.png)
 
 ## 🚀 Features
 ✅ Interactive visualizations for **bike usage trends**  
